@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Parth Ahuja - @parthAhujaEngineer
-  Currently Studing in Chitkara University.
-- 👀 I’m interested in Data Science
-  I'm also Familiar with Java, C and C++.
+- 👋 Hi, I’m Parth Ahuja - @parthAhujaEngineer, Currently Studing in Chitkara University.
+- 👀 I’m interested in Data Science. I'm also Familiar with Java, C and C++.
 - 🌱 I’m currently learning Python, SQL etc.
 - 📫 How to reach me ... contact.parth.ahuja@gmail.com
 
